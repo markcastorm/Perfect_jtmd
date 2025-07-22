@@ -1,0 +1,85 @@
+CODE,DESCRIPTION,UNIT,FREQUENCY,SOURCE,DATASET,LAST_UPDATE,NEXT_RELEASE_DATE,DATA_TYPE,CATEGORY
+JTMD.ETF.BAL.PROP.M,"ETF, Balance, Proprietary",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.BROKER.M,"ETF, Balance, Brokerage",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.TOT.M,"ETF, Balance, Total",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.INST.M,"ETF, Balance, Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.INDIV.M,"ETF, Balance, Individuals",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.FOR.M,"ETF, Balance, Foreigners",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.SECCOS.M,"ETF, Balance, Securities Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.INVTRUST.M,"ETF, Balance, Investment Trusts",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.BUSCORP.M,"ETF, Balance, Business Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.OTHINST.M,"ETF, Balance, Other Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.INSTFIN.M,"ETF, Balance, Financial Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.INS.M,"ETF, Balance, Life/Non-Life Insurance",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.BK.M,"ETF, Balance, Banks",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.BAL.OTHERFIN.M,"ETF, Balance, Other Financials",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.PROP.M,"ETF, Sales, Proprietary",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.BROKER.M,"ETF, Sales, Brokerage",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.TOT.M,"ETF, Sales, Total",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.INST.M,"ETF, Sales, Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.INDIV.M,"ETF, Sales, Individuals",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.FOR.M,"ETF, Sales, Foreigners",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.SECCOS.M,"ETF, Sales, Securities Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.INVTRUST.M,"ETF, Sales, Investment Trusts",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.BUSCORP.M,"ETF, Sales, Business Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.OTHINST.M,"ETF, Sales, Other Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.INSTFIN.M,"ETF, Sales, Financial Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.INS.M,"ETF, Sales, Life/Non-Life Insurance",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.BK.M,"ETF, Sales, Banks",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.SAL.OTHERFIN.M,"ETF, Sales, Other Financials",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.PROP.M,"ETF, Purchases, Proprietary",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.BROKER.M,"ETF, Purchases, Brokerage",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.TOT.M,"ETF, Purchases, Total",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.INST.M,"ETF, Purchases, Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.INDIV.M,"ETF, Purchases, Individuals",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.FOR.M,"ETF, Purchases, Foreigners",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.SECCOS.M,"ETF, Purchases, Securities Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.INVTRUST.M,"ETF, Purchases, Investment Trusts",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.BUSCORP.M,"ETF, Purchases, Business Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.OTHINST.M,"ETF, Purchases, Other Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.INSTFIN.M,"ETF, Purchases, Financial Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.INS.M,"ETF, Purchases, Life/Non-Life Insurance",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.BK.M,"ETF, Purchases, Banks",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.ETF.PURCH.OTHERFIN.M,"ETF, Purchases, Other Financials",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.PROP.M,"REIT, Balance, Proprietary",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.BROKER.M,"REIT, Balance, Brokerage",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.TOT.M,"REIT, Balance, Total",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.INST.M,"REIT, Balance, Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.INDIV.M,"REIT, Balance, Individuals",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.FOR.M,"REIT, Balance, Foreigners",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.SECCOS.M,"REIT, Balance, Securities Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.INVTRUST.M,"REIT, Balance, Investment Trusts",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.BUSCORP.M,"REIT, Balance, Business Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.OTHINST.M,"REIT, Balance, Other Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.INSTFIN.M,"REIT, Balance, Financial Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.INS.M,"REIT, Balance, Life/Non-Life Insurance",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.BK.M,"REIT, Balance, Banks",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.BAL.OTHERFIN.M,"REIT, Balance, Other Financials",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.PROP.M,"REIT, Sales, Proprietary",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.BROKER.M,"REIT, Sales, Brokerage",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.TOT.M,"REIT, Sales, Total",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.INST.M,"REIT, Sales, Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.INDIV.M,"REIT, Sales, Individuals",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.FOR.M,"REIT, Sales, Foreigners",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.SECCOS.M,"REIT, Sales, Securities Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.INVTRUST.M,"REIT, Sales, Investment Trusts",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.BUSCORP.M,"REIT, Sales, Business Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.OTHINST.M,"REIT, Sales, Other Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.INSTFIN.M,"REIT, Sales, Financial Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.INS.M,"REIT, Sales, Life/Non-Life Insurance",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.BK.M,"REIT, Sales, Banks",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.SAL.OTHERFIN.M,"REIT, Sales, Other Financials",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.PROP.M,"REIT, Purchases, Proprietary",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.BROKER.M,"REIT, Purchases, Brokerage",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.TOT.M,"REIT, Purchases, Total",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.INST.M,"REIT, Purchases, Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.INDIV.M,"REIT, Purchases, Individuals",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.FOR.M,"REIT, Purchases, Foreigners",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.SECCOS.M,"REIT, Purchases, Securities Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.INVTRUST.M,"REIT, Purchases, Investment Trusts",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.BUSCORP.M,"REIT, Purchases, Business Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.OTHINST.M,"REIT, Purchases, Other Cos.",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.INSTFIN.M,"REIT, Purchases, Financial Institutions",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.INS.M,"REIT, Purchases, Life/Non-Life Insurance",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.BK.M,"REIT, Purchases, Banks",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
+JTMD.REIT.PURCH.OTHERFIN.M,"REIT, Purchases, Other Financials",Thousand JPY,Monthly,Japan Exchange Group (JPX),JTMD,2025-07-22T14:29:35,,Numeric,Trading Statistics
