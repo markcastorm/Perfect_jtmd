@@ -1,49 +1,32 @@
-2025-07-22 14:28:44,034 - INFO - ==========================================================
-2025-07-22 14:28:44,034 - INFO -           STARTING JPX AUTOMATED DATA PIPELINE
-2025-07-22 14:28:44,034 - INFO - ==========================================================
-2025-07-22 14:28:44,036 - INFO - Configuration loaded for Target: 06-2025.
-2025-07-22 14:28:44,036 - INFO - Download Path: 'data/raw_downloads' | Output Path: 'data/final_output'
-2025-07-22 14:28:44,048 - INFO - ============================================================
-2025-07-22 14:28:44,048 - INFO - 🚀 Starting JPX Downloader for Jun. 2025
-2025-07-22 14:28:44,048 - INFO - ============================================================
-2025-07-22 14:28:44,048 - INFO - Running downloader in HEADLESS mode.
-2025-07-22 14:28:46,418 - INFO - patching driver executable C:\Users\Mark Castro\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
-2025-07-22 14:28:49,077 - INFO - Navigating to JPX website: https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html
-2025-07-22 14:29:17,887 - INFO - Cookie banner not found or already accepted.
-2025-07-22 14:29:17,888 - INFO - 
+2025-08-13 10:50:02,787 - INFO - ==========================================================
+2025-08-13 10:50:02,788 - INFO -           STARTING JPX AUTOMATED DATA PIPELINE
+2025-08-13 10:50:02,788 - INFO - ==========================================================
+2025-08-13 10:50:02,789 - INFO - Configuration loaded for Target: 08-2025.
+2025-08-13 10:50:02,789 - INFO - Download Path: 'data/raw_downloads' | Output Path: 'data/final_output'
+2025-08-13 10:50:02,791 - INFO - ============================================================
+2025-08-13 10:50:02,791 - INFO - 🚀 Starting JPX Downloader for Aug. 2025
+2025-08-13 10:50:02,791 - INFO - ============================================================
+2025-08-13 10:50:02,791 - INFO - Running downloader in HEADLESS mode.
+2025-08-13 10:50:03,495 - INFO - patching driver executable C:\Users\Execo Training\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-08-13 10:50:05,379 - INFO - Navigating to JPX website: https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html
+2025-08-13 10:50:32,730 - INFO - Cookie banner not found or already accepted.
+2025-08-13 10:50:32,730 - INFO - 
 --- Processing Category: ETFs ---
-2025-07-22 14:29:20,652 - INFO - Navigated to 'ETFs' > 'Monthly' tab.
-2025-07-22 14:29:22,653 - INFO - Attempting to select year '2025' from dropdown...
-2025-07-22 14:29:22,820 - INFO - Successfully selected year '2025'. Loading data...
-2025-07-22 14:29:25,941 - INFO - [NEW] Downloading 'etf_m2506.xls'...
-2025-07-22 14:29:26,872 - INFO - [SUCCESS] Saved to: data\raw_downloads\etf_m2506.xls
-2025-07-22 14:29:26,873 - INFO - 
+2025-08-13 10:50:35,061 - INFO - Navigated to 'ETFs' > 'Monthly' tab.
+2025-08-13 10:50:37,062 - INFO - Attempting to select year '2025' from dropdown...
+2025-08-13 10:50:37,160 - INFO - Successfully selected year '2025'. Loading data...
+2025-08-13 10:50:40,247 - WARNING - No downloadable file found for ETFs for Aug. 2025.
+2025-08-13 10:50:40,248 - INFO - 
 --- Processing Category: REITs ---
-2025-07-22 14:29:29,089 - INFO - Navigated to 'REITs' > 'Monthly' tab.
-2025-07-22 14:29:31,091 - INFO - Attempting to select year '2025' from dropdown...
-2025-07-22 14:29:31,196 - INFO - Successfully selected year '2025'. Loading data...
-2025-07-22 14:29:34,372 - INFO - [NEW] Downloading 'reit_m2506.xls'...
-2025-07-22 14:29:34,948 - INFO - [SUCCESS] Saved to: data\raw_downloads\reit_m2506.xls
-2025-07-22 14:29:35,265 - INFO - Browser closed.
-2025-07-22 14:29:35,265 - INFO - Saving updated download log to 'jpx_download_log.json'...
-2025-07-22 14:29:35,266 - INFO - 
-✅ Download process complete. 2 file(s) are ready for processing.
-2025-07-22 14:29:35,267 - INFO - Adaptive JTMD Extractor initialized. Input: 'data\raw_downloads', Output: 'data\final_output'
-2025-07-22 14:29:35,267 - INFO - ============================================================
-2025-07-22 14:29:35,267 - INFO - 🧠 Starting Adaptive Data Extractor
-2025-07-22 14:29:35,268 - INFO - ============================================================
-2025-07-22 14:29:35,269 - INFO - 📁 Processing: etf_m2406.xls
-2025-07-22 14:29:35,315 - INFO - Extracted 42/42 data points for ETF.
-2025-07-22 14:29:35,316 - INFO - 📁 Processing: etf_m2506.xls
-2025-07-22 14:29:35,371 - INFO - Extracted 42/42 data points for ETF.
-2025-07-22 14:29:35,371 - INFO - 📁 Processing: reit_m2406.xls
-2025-07-22 14:29:35,390 - INFO - Extracted 42/42 data points for REIT.
-2025-07-22 14:29:35,391 - INFO - 📁 Processing: reit_m2506.xls
-2025-07-22 14:29:35,443 - INFO - Extracted 42/42 data points for REIT.
-2025-07-22 14:29:35,456 - INFO - ✅ Created data CSV: data\final_output\JTMD_DATA_20250722.csv
-2025-07-22 14:29:35,463 - INFO - ✅ Created metadata CSV: data\final_output\JTMD_META_20250722.csv
-2025-07-22 14:29:35,529 - INFO - 📦 Created ZIP archive: data\final_output\JTMD_20250722.zip
-2025-07-22 14:29:35,531 - INFO - 🎉 Adaptive extraction process completed successfully!
-2025-07-22 14:29:35,531 - INFO - ==========================================================
-2025-07-22 14:29:35,532 - INFO - ✅ PIPELINE FINISHED IN 51.50 SECONDS
-2025-07-22 14:29:35,533 - INFO - ==========================================================
+2025-08-13 10:50:42,073 - INFO - Navigated to 'REITs' > 'Monthly' tab.
+2025-08-13 10:50:44,074 - INFO - Attempting to select year '2025' from dropdown...
+2025-08-13 10:50:44,115 - INFO - Successfully selected year '2025'. Loading data...
+2025-08-13 10:50:47,201 - WARNING - No downloadable file found for REITs for Aug. 2025.
+2025-08-13 10:50:47,448 - INFO - Browser closed.
+2025-08-13 10:50:47,448 - INFO - Saving updated download log to 'jpx_download_log.json'...
+2025-08-13 10:50:47,449 - WARNING - 
+⚠️ Download process finished, but no new or required files were found for the specified period.
+2025-08-13 10:50:47,449 - WARNING - Extractor step skipped because no files were downloaded or found for the target period.
+2025-08-13 10:50:47,450 - INFO - ==========================================================
+2025-08-13 10:50:47,450 - INFO - ✅ PIPELINE FINISHED IN 44.66 SECONDS
+2025-08-13 10:50:47,450 - INFO - ==========================================================
